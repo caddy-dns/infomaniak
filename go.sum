@@ -159,8 +159,8 @@ github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515/go.mod h1:+0opPa2QZZtGFB
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/libdns/infomaniak v0.1.0 h1:IqMPugruRfT875Cqe7ixA7xsewaJFbe6tUivbwFA3tk=
-github.com/libdns/infomaniak v0.1.0/go.mod h1:SV6FmObjYqfYx2N5V4wGjW9bYLkovXt/T17/t1qvzQk=
+github.com/libdns/infomaniak v0.1.1 h1:OC8VGdgWL0ObCz/7Ov3uqEPKoJg8ppBGuNnMhE3Mrn0=
+github.com/libdns/infomaniak v0.1.1/go.mod h1:SV6FmObjYqfYx2N5V4wGjW9bYLkovXt/T17/t1qvzQk=
 github.com/libdns/libdns v0.2.1 h1:Wu59T7wSHRgtA0cfxC+n1c/e+O3upJGWytknkmFEDis=
 github.com/libdns/libdns v0.2.1/go.mod h1:yQCXzk1lEZmmCPa857bnk4TsOiqYasqpyOEeSObbb40=
 github.com/matttproud/golang_protobuf_extensions v1.0.1 h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=
